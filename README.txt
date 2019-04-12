@@ -1,4 +1,3 @@
-# ActiviteOpenClassroom
-Git &amp; GitHub - Partie 2 Activité
+Description :
 
 Mon nom et mon prénom dans deux fichiers.
